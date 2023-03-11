@@ -6,4 +6,6 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    i = int(s)
+    return i
+print(main("23"))
