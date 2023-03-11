@@ -6,4 +6,6 @@ def main(s,n):
     Returns:
         str: answer
     """
-    return
+    n = 3
+    return s[n]
+print(main("pa"))
